@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ah4hGhZKmQrKtUvJqNBEu9Rhlemh9UJwKHl3m7912LwjUymFofwQ1xJr9SWVP8ZKmrmzB4Wl4VmnXLQY+MQWsA==",
+  "success": true,
+  "projectFilePath": "C:\\Readify\\NSW\\SQS blog post\\DemoApi\\DemoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mouna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mouna\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\mouna\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\mouna\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
